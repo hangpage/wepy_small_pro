@@ -1,6 +1,6 @@
 # wepy_small_pro
 
-### 对原生小程序进行wepy框架处理
+### 使用wepy框架对现有小程序进行重构
 - [官方资源](https://github.com/Tencent/wepy)
 - [官方文档](https://tencent.github.io/wepy/#/)
 
