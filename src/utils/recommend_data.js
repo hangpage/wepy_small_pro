@@ -508,7 +508,7 @@ module.exports = [{
       methodId: '3',
       name: '葱白粥',
       desc: '适合于风寒感冒的患者，帮助身体恢复健康',
-      imgSrc: '	http://image-1252304461.file.myqcloud.com/mini/bzbb/images/fenghanganmao/cangbaizhou.jpg',
+      imgSrc: '	http://image-1252304461.file.myqcloud.com/mini/bzbb/images/fenghanganmao/congbaizhou.jpg',
       mediaLink: '',
       effect: '解表散寒，和胃补中。适用于风寒感冒。',
       steps: '1. 将葱白摘去外皮，冲洗干净，切细。   2. 粳米淘洗干净，用冷水浸泡半小时，捞出，沥干水分。  3. 锅中加入约1000毫升冷水，将粳米放入，先用旺火烧沸，加入葱白、醋，再改用小火熬煮成粥，即可食用',

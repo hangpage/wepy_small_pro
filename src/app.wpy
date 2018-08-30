@@ -77,7 +77,8 @@ export default class extends wepy.app {
     pages: [
       'pages/bzbb',
       'pages/detail',
-      'pages/health_test'
+      'pages/health_test',
+      'pages/method_detail'
     ],
     window: {
       backgroundTextStyle: 'light',
