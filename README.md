@@ -14,7 +14,9 @@
 - 通过this.$parent获取小程序app实例
 - 异步函数中更新数据的时候，必须手动调用$apply方法，才会触发脏数据检查流程的运行
 
-    setTimeout(() => {
+```
+setTimeout(() => {
         this.title = 'this is title';
         this.$apply();
     }, 3000);
+```
